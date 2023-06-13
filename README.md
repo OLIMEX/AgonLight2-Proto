@@ -5,6 +5,8 @@
 AgonLight2-Proto is small board with dimensions 100x80mm.
 It allows you to fast prototype concept and ideas for AgonLight2 computer.
 
+## Features
+
 AgonLight2-Proto has these features:
 
 * IDC connector 34 pin for connection on AgonLight2 GPIO
@@ -15,3 +17,9 @@ AgonLight2-Proto has these features:
 * GND and 5V bus connecting vertically all pads on the right edge
 * Dimensions 100x80mm
 * 3 hex distance spacers for keeping board horizontally when ICD connector is plug to AgonLight2 GPIO
+
+## Licenses
+
+* Hardware is released under CERN Open Hardware Licence Version 2 - Strongly Reciprocal, all silkscreen credits to Olimex should remain;
+* Software is released under GPL3 Licensee
+* Documentation is released under CC BY-SA 3.0
